@@ -3,5 +3,5 @@
 Desripcion 
 
 <p align="center">
-<img src="./media/Demo.mp4" alt="drawing" width="1000"/>  
+<img src="./media/Demo.gif" alt="drawing" width="1000"/>  
 </p>
