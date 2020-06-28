@@ -11,13 +11,16 @@ A genetic algorithm is presented that seeks to find the path with the least cost
 </p>
 <sub> Genetic algorithm demo in MatLab </sub>
 
+---
 This project is written in MatLab software and to run it open the file Saleman.m
 
     To ensure the convergence of the algorithm modify the number of iterations
-    **Num_Pop=400;**
+    Num_Pop=300;
     
-    **Run "Saleman.m"**
- 
+    Run "Saleman.m"
+    
+    
+---
 <p align="center">
 <img src="./media/Img.jpg" alt="drawing" width="1000"/>  
 </p>
