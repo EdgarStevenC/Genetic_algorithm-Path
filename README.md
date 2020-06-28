@@ -26,8 +26,13 @@ This project was written in MatLab softwar. To run it: **open Saleman.m**
 <img src="./media/Img.jpg" alt="drawing" width="1000"/>  
 </p>
 
+<sub> Potential of this code </sub>
+<p align="center">
+<img src="./media/path.gif" alt="drawing" width="1000"/>  
+</p>
+
 ---
 # Notes
 
-This work was developed in the chair ** Flexible Computing ** in 2017 at the University of La Salle
+This work was developed in the chair **Flexible Computing** in 2017 at the University of La Salle
 **Contact** EdgarStevenC - ecorrea00@unisalle.edu.co
