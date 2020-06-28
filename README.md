@@ -12,7 +12,7 @@ A genetic algorithm is presented that seeks to find the path with the least cost
 </p>
 
 ---
-This project was written in MatLab software and to run it: **open Saleman.m**
+This project was written in MatLab softwar. To run it: **open Saleman.m**
 
     To ensure the convergence of the algorithm modify the number of iterations
     Num_Pop=300;
