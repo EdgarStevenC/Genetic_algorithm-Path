@@ -28,7 +28,7 @@ This project was written in MatLab softwar. To run it: **open Saleman.m**
 
 <sub> Potential of this code </sub>
 <p align="center">
-<img src="./media/path.gif" alt="drawing" width="1000"/>  
+<img src="./media/path.gif" alt="drawing" width="500"/>  
 </p>
 
 ---
