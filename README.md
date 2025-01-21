@@ -35,4 +35,6 @@ This project was written in MatLab softwar. To run it: **open Saleman.m**
 # Notes
 
 This work was developed in the chair **Flexible Computing** in 2017 at the University of La Salle
-**Contact** EdgarStevenC - ecorrea00@unisalle.edu.co
+**Contact** EdgarS. Correa - ecorrea00@unisalle.edu.co
+
+The final project of this training program was published in the journal VISIÓN ELECTRÓNICA: https://drive.google.com/file/d/1OFXXIWoh8_1RzZtb_9gmFQEsLqFW7wHL/view
